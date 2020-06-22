@@ -20,3 +20,7 @@ for i in range(0, 6):
 
 for i in elements:
     print(f"Element was: {i}")
+
+
+two_dimensional_list = [[1, 3, 5, 7, 9], [2, 4, 6, 8, 10]]
+
